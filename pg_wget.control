@@ -1,0 +1,5 @@
+# Wget data extractor for some web service bots
+comment = 'Wget data extractor for some web service bots'
+default_version = '1.0'
+module_pathname = '$libdir/pg_wget'
+relocatable = true
